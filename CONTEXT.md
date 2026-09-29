@@ -41,7 +41,7 @@ keywords:
 
 ## Key surfaces
 - Resources: `FeedbackFormResource`, `FeedbackInvitationResource`, `FeedbackResponseResource`, `FeedbackTemplateResource`, `FeedbackTestimonialResource`
-- Config `filament-feedback.php`: `navigation`, `group`, `resources`, `enabled`, `feedback_form`, `feedback_response`, `feedback_invitation`, `feedback_template`, `feedback_testimonial`, `navigation_sort`, `pages`
+- Config `filament-feedback.php`: `navigation`, `group`, `resources`, `enabled`, `feedback_form`, `feedback_response`, `feedback_invitation`, `feedback_template`, `feedback_testimonial`, `navigation_sort`
 
 ## Docs map
 - Start: `01-overview` → `03-configuration` → `04-usage` → `99-troubleshooting`
